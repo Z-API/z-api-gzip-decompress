@@ -1,0 +1,6 @@
+@WebhookReceiver_HostAddress = http://localhost:3000
+
+POST {{WebhookReceiver_HostAddress}}/webhook
+Accept: application/json
+
+###
