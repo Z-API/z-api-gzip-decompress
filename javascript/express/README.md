@@ -46,4 +46,4 @@ Agora basta acionar um dos webhooks que você configurou anteriormente. Por exem
 
 ## Próximos passos
 
-Agora que você entendeu como receber e como descomprimir os webhooks, está na hora de fazer a alteração na sua aplicação.
+Agora que você entendeu como receber e como descomprimir os webhooks, você está pronto para fazer as alterações necessárias na sua aplicação.
